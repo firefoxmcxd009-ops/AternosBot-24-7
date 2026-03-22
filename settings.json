@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MCStatusBot",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "FirefoxMCKingdom.aternos.me",
-    "port": 54335,
+    "ip": "slobos13.aternos.me",
+    "port": 29195,
     "version": "1.21.1"
   },
   "position": {
